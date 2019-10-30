@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59a2386e67629c8c64fefbeff09b725f",
+    "revision": "158bce38c73b61c057a47cf3f07556bc",
     "url": "/agni/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/agni/static/css/2.75317b3c.chunk.css"
   },
   {
-    "revision": "eb3ee6fb8ca8d145b17b",
+    "revision": "542d8a89485ebaaf9bf6",
     "url": "/agni/static/css/main.92735c7d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/agni/static/js/2.5352f075.chunk.js"
   },
   {
-    "revision": "eb3ee6fb8ca8d145b17b",
-    "url": "/agni/static/js/main.8d66e205.chunk.js"
+    "revision": "542d8a89485ebaaf9bf6",
+    "url": "/agni/static/js/main.31c585e0.chunk.js"
   },
   {
     "revision": "18c30164f64aaeec1d3f",
