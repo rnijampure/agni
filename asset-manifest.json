@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/agni/signin/static/css/main.92735c7d.chunk.css",
+    "main.js": "/agni/signin/static/js/main.e0b104b4.chunk.js",
+    "main.js.map": "/agni/signin/static/js/main.e0b104b4.chunk.js.map",
+    "runtime-main.js": "/agni/signin/static/js/runtime-main.f2291b81.js",
+    "runtime-main.js.map": "/agni/signin/static/js/runtime-main.f2291b81.js.map",
+    "static/css/2.b59263a8.chunk.css": "/agni/signin/static/css/2.b59263a8.chunk.css",
+    "static/js/2.5352f075.chunk.js": "/agni/signin/static/js/2.5352f075.chunk.js",
+    "static/js/2.5352f075.chunk.js.map": "/agni/signin/static/js/2.5352f075.chunk.js.map",
+    "index.html": "/agni/signin/index.html",
+    "precache-manifest.419c31f5315545ad236c916e3e8ecc28.js": "/agni/signin/precache-manifest.419c31f5315545ad236c916e3e8ecc28.js",
+    "service-worker.js": "/agni/signin/service-worker.js",
+    "static/css/2.b59263a8.chunk.css.map": "/agni/signin/static/css/2.b59263a8.chunk.css.map",
+    "static/css/main.92735c7d.chunk.css.map": "/agni/signin/static/css/main.92735c7d.chunk.css.map",
+    "static/media/index.css": "/agni/signin/static/media/roboto-latin-900italic.ebf6d164.woff2",
+    "static/media/shantaBai.png": "/agni/signin/static/media/shantaBai.aa6734c6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2291b81.js",
+    "static/css/2.b59263a8.chunk.css",
+    "static/js/2.5352f075.chunk.js",
+    "static/css/main.92735c7d.chunk.css",
+    "static/js/main.e0b104b4.chunk.js"
+  ]
+}
