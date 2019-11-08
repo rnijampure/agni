@@ -1,27 +1,107 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e781c1b5f42f7dc5110b0520f32e3bf3",
+    "revision": "acc31bb77eccff8710e373f110386e74",
     "url": "/agni/index.html"
   },
   {
-    "revision": "6500faebb6f80ca51ae6",
-    "url": "/agni/static/css/2.75317b3c.chunk.css"
+    "revision": "7f564ac239126982b2dc",
+    "url": "/agni/static/css/4.75317b3c.chunk.css"
   },
   {
-    "revision": "b5d53bbe78263d768510",
-    "url": "/agni/static/css/main.57175fe2.chunk.css"
+    "revision": "81ab90eef8abae17627b",
+    "url": "/agni/static/css/5.9bf50fe6.chunk.css"
   },
   {
-    "revision": "6500faebb6f80ca51ae6",
-    "url": "/agni/static/js/2.0d213198.chunk.js"
+    "revision": "ba6eda60f6765eb0ff9d",
+    "url": "/agni/static/css/6.c0d9a6ed.chunk.css"
   },
   {
-    "revision": "b5d53bbe78263d768510",
-    "url": "/agni/static/js/main.5d59434c.chunk.js"
+    "revision": "7fc100f0a60efc6452ac",
+    "url": "/agni/static/css/7.8a8686c3.chunk.css"
   },
   {
-    "revision": "18c30164f64aaeec1d3f",
-    "url": "/agni/static/js/runtime-main.12aeb9b7.js"
+    "revision": "146868e7e92ce1382644",
+    "url": "/agni/static/css/8.8a8686c3.chunk.css"
+  },
+  {
+    "revision": "4e936b673df89a1944fd",
+    "url": "/agni/static/css/main.ff2e499e.chunk.css"
+  },
+  {
+    "revision": "1fa73026efd117b6a9b6",
+    "url": "/agni/static/js/0.af9e86b7.chunk.js"
+  },
+  {
+    "revision": "ac3af9d02a9fea81ec9a",
+    "url": "/agni/static/js/1.7534893e.chunk.js"
+  },
+  {
+    "revision": "2e1dd895f39fdf978fda",
+    "url": "/agni/static/js/10.2c7e5596.chunk.js"
+  },
+  {
+    "revision": "dea5131dfa7f71ce2756",
+    "url": "/agni/static/js/11.e3e1669d.chunk.js"
+  },
+  {
+    "revision": "ae2e33eb180d64883a0d",
+    "url": "/agni/static/js/12.78fc56f2.chunk.js"
+  },
+  {
+    "revision": "655f2e2616f8741f1ed8",
+    "url": "/agni/static/js/13.85ada341.chunk.js"
+  },
+  {
+    "revision": "70a2a30306f193d83420",
+    "url": "/agni/static/js/14.4d227824.chunk.js"
+  },
+  {
+    "revision": "5a7345c8af8bcf24a5e5",
+    "url": "/agni/static/js/15.b97c8b44.chunk.js"
+  },
+  {
+    "revision": "5fd3935a61918e6cb936",
+    "url": "/agni/static/js/16.cc680ab8.chunk.js"
+  },
+  {
+    "revision": "7fd4540002d24bae1509",
+    "url": "/agni/static/js/17.eccb7c5c.chunk.js"
+  },
+  {
+    "revision": "e1b61571f0ef414687cb",
+    "url": "/agni/static/js/18.6639cc54.chunk.js"
+  },
+  {
+    "revision": "7f564ac239126982b2dc",
+    "url": "/agni/static/js/4.d0e3599b.chunk.js"
+  },
+  {
+    "revision": "81ab90eef8abae17627b",
+    "url": "/agni/static/js/5.6cda6c78.chunk.js"
+  },
+  {
+    "revision": "ba6eda60f6765eb0ff9d",
+    "url": "/agni/static/js/6.632db9f8.chunk.js"
+  },
+  {
+    "revision": "7fc100f0a60efc6452ac",
+    "url": "/agni/static/js/7.f7e23918.chunk.js"
+  },
+  {
+    "revision": "146868e7e92ce1382644",
+    "url": "/agni/static/js/8.37e3eea3.chunk.js"
+  },
+  {
+    "revision": "480aad715829a91d338c",
+    "url": "/agni/static/js/9.e2331fc0.chunk.js"
+  },
+  {
+    "revision": "4e936b673df89a1944fd",
+    "url": "/agni/static/js/main.70865461.chunk.js"
+  },
+  {
+    "revision": "e5e383f00f6bf5cfdbe6",
+    "url": "/agni/static/js/runtime-main.bcd16249.js"
   },
   {
     "revision": "5cb7edfceb233100075dc9a1e12e8da3",
