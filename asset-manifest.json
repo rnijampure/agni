@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/agni/static/css/main.57175fe2.chunk.css",
-    "main.js": "/agni/static/js/main.2748cb15.chunk.js",
-    "main.js.map": "/agni/static/js/main.2748cb15.chunk.js.map",
+    "main.js": "/agni/static/js/main.5d59434c.chunk.js",
+    "main.js.map": "/agni/static/js/main.5d59434c.chunk.js.map",
     "runtime-main.js": "/agni/static/js/runtime-main.12aeb9b7.js",
     "runtime-main.js.map": "/agni/static/js/runtime-main.12aeb9b7.js.map",
     "static/css/2.75317b3c.chunk.css": "/agni/static/css/2.75317b3c.chunk.css",
-    "static/js/2.a7fd1ecd.chunk.js": "/agni/static/js/2.a7fd1ecd.chunk.js",
-    "static/js/2.a7fd1ecd.chunk.js.map": "/agni/static/js/2.a7fd1ecd.chunk.js.map",
+    "static/js/2.0d213198.chunk.js": "/agni/static/js/2.0d213198.chunk.js",
+    "static/js/2.0d213198.chunk.js.map": "/agni/static/js/2.0d213198.chunk.js.map",
     "index.html": "/agni/index.html",
-    "precache-manifest.df3d42f75bf803c3a91ec7a7ac70788a.js": "/agni/precache-manifest.df3d42f75bf803c3a91ec7a7ac70788a.js",
+    "precache-manifest.099e5bcbeceb39224697f08e8399aa97.js": "/agni/precache-manifest.099e5bcbeceb39224697f08e8399aa97.js",
     "service-worker.js": "/agni/service-worker.js",
     "static/css/2.75317b3c.chunk.css.map": "/agni/static/css/2.75317b3c.chunk.css.map",
     "static/css/main.57175fe2.chunk.css.map": "/agni/static/css/main.57175fe2.chunk.css.map",
@@ -19,8 +19,8 @@
   "entrypoints": [
     "static/js/runtime-main.12aeb9b7.js",
     "static/css/2.75317b3c.chunk.css",
-    "static/js/2.a7fd1ecd.chunk.js",
+    "static/js/2.0d213198.chunk.js",
     "static/css/main.57175fe2.chunk.css",
-    "static/js/main.2748cb15.chunk.js"
+    "static/js/main.5d59434c.chunk.js"
   ]
 }
